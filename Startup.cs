@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
+using Microsoft.EntityFrameworkCore;
+using SGPV.Data;
 
-namespace SGPV_API
+namespace SGPV
 {
     public class Startup
     {
@@ -24,6 +20,9 @@ namespace SGPV_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddDbContext<SGPVContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("SGPVContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
