@@ -13123,26 +13123,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rosel\\.nuget\\packages\\": {},
+    "C:\\Users\\johan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\SGPV\\SGPV\\SGPV.csproj",
+      "projectUniqueName": "C:\\Projetos\\SGPV\\SGPV.csproj",
       "projectName": "SGPV",
-      "projectPath": "D:\\SGPV\\SGPV\\SGPV.csproj",
-      "packagesPath": "C:\\Users\\rosel\\.nuget\\packages\\",
-      "outputPath": "D:\\SGPV\\SGPV\\obj\\",
+      "projectPath": "C:\\Projetos\\SGPV\\SGPV.csproj",
+      "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\SGPV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rosel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

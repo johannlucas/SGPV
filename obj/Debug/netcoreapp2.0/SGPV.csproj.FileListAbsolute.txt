@@ -9,3 +9,14 @@ D:\SGPV\SGPV\obj\Debug\netcoreapp2.0\SGPV.AssemblyInfo.cs
 D:\SGPV\SGPV\bin\Debug\netcoreapp2.0\SGPV.pdb
 D:\SGPV\SGPV\obj\Debug\netcoreapp2.0\SGPV.dll
 D:\SGPV\SGPV\obj\Debug\netcoreapp2.0\SGPV.pdb
+C:\Projetos\SGPV\bin\Debug\netcoreapp2.0\SGPV.deps.json
+C:\Projetos\SGPV\bin\Debug\netcoreapp2.0\SGPV.runtimeconfig.json
+C:\Projetos\SGPV\bin\Debug\netcoreapp2.0\SGPV.runtimeconfig.dev.json
+C:\Projetos\SGPV\bin\Debug\netcoreapp2.0\SGPV.dll
+C:\Projetos\SGPV\bin\Debug\netcoreapp2.0\SGPV.pdb
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.csprojResolveAssemblyReference.cache
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.csproj.CoreCompileInputs.cache
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.AssemblyInfoInputs.cache
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.AssemblyInfo.cs
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.dll
+C:\Projetos\SGPV\obj\Debug\netcoreapp2.0\SGPV.pdb

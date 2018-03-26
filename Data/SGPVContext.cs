@@ -24,5 +24,7 @@ namespace SGPV.Data
         public DbSet<SGPV.Models.ItemCompra> ItemCompra { get; set; }
 
         public DbSet<SGPV.Models.Estoque> Estoque { get; set; }
+
+        public DbSet<SGPV.Models.Pagamento> Pagamento { get; set; }
     }
 }
